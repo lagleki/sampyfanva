@@ -1,3 +1,2653 @@
-the dog
-the cat
-the bus
+Where is the stop of bus number 5?
+What's the number of the bus that goes to the museum?
+Tourists' bus is long.
+Turn that off.
+Turn it on.
+I will get the machine running.
+The shop is open.
+The machine is now in operation producing flour.
+Are you afraid of spiders?
+There've been a lot of debates caused by this artwork.
+There's a raccoon in my kitchen.
+I felt resentful of this lady's bad behavior.
+He took a dangerous pose near the abyss.
+Don't talk loud.
+He said &quot;Ten&quot;.
+How much is the kilo of bananas?
+I was sad of what I had allowed her to do.
+I ran three thousands meters.
+Have you ever dreamt of running on your hands on a narrow rod?
+This is a gift packed with a ribbon into a bundle.
+There are five cows in the garden.
+I hate chalk. It leaves powder on hands.
+Take the pail of bucket out of the house.
+She planted a flower bulb in the garden.
+The tourists are watching the graceful movement of a baleen whale.
+I am on the balcony of my home.
+The view from the balcony is beautiful.
+The blade of the knife is sharp.
+Kevin left, and that happened after my arrival to the hotel.
+The girl likes that doll.
+Bamboo bends before the wind.
+There is a lake beyond the city.
+Such things are beyond my powers.
+The house is beyond those trees from here in how far it is from here.
+Wind and rain protect the house from burning.
+Humans look like amphibians.
+Do you speak Lojban?
+The sea looks magnificent from the hotel room.
+The plant is growing into a tree from a cut off branch.
+This bank owned by stated works with companies, in short, this is a commercial bank.
+My level of speaking Lojban isn't enough to understand you.
+Leaving now would be enough for you to arrive on time.
+It's enough for me.
+The violent weather forced him to stay at home.
+The accident convinced him to be more careful.
+The box occupied large space.
+The meeting lasted for a large amount of time.
+The trees form an arch over the road.
+This is a bar serving coffee to tourists.
+The mark on the pillar is a road sign.
+I should go out.
+I emphasized the importance of continuing to work by saying it aloud.
+Who will replace you?
+A dog bit me in the leg.
+He was holding a button of his coat.
+Barley is the main product here.
+Don't be silly in repeating the same.
+My back still hurts.
+I am a member of a team of smart people led by Robin and learning Lojban.
+I will send you a letter via the internet from my home computer.
+A worker sent a sound signal to another worker from the above.
+I have two sons.
+Fruit gardens are to the north of the city.
+All humans have brains.
+My belly hurts.
+It's not blood. It's beet.
+It was a tragedy for him to lose his only son.
+I carried a bowl of noodles (to the garden from the kitchen via a rocky road).
+Kevin brought a dog home.
+I took the phone out of the pocket.
+There were five pebbles here.
+Bees are flying near the flowers.
+The rain whipped against the window.
+I must return this book today fulfilling my earlier promise.
+She was afraid to catch a cold.
+I've got the flu and my teeth hurt.
+The company insures the sportsman against injuries by paying money as an insurance.
+Soon I will become happy.
+Please, be quiet.
+You became lazy.
+The birch leaves have turned yellow.
+This is banana beer.
+She twisted my arm.
+I am sure you will succeed.
+Have you persuaded your parents that the journey wouldn't be dangerous?
+I'd like to see ice mountains.
+The fence between the garden and the field is thick.
+One of these walls of the temple is a sign of the past power of the country.
+The file is 1000 bit.
+Her teeth were white.
+The cup is made of glass.
+The sky is blue today.
+Cockroaches hide themselves during daytime.
+The house is built of stone blocks.
+A girl with blond hair arrived to meet you.
+Alice, whom do you like more, blondes or brunets?
+I was a passenger on a sailboat.
+The ball rolled into the stream.
+The light bulb is broken.
+I hit my leg bone with a stick.
+This is a forest of long trees and clay loams.
+Bottles of beer are made of glass.
+I will bring you a blanket.
+There was a big wave in the sea.
+My tongue is my enemy when I'm trying to use it to utter Lojban words.
+The hailstorm was violent.
+I am ready to walk with you.
+&quot;What's up?&quot; is a clause.
+&quot;I give this to you&quot; is a clause with the main verb &quot;give&quot; and sequential places &quot;I&quot;,&quot;this&quot;,&quot;you&quot;.
+&quot;I love you&quot; is a clause with the main verb &quot;someone loves someone&quot; and sequential places &quot;I&quot;,&quot;you&quot;.
+&quot;Give&quot; is the main verb of the clause &quot;I give this to you&quot; that has sequential places &quot;I&quot;,&quot;this&quot;,&quot;you&quot;.
+Oh, the northern wind is too strong.
+This is the doctor's office.
+I went to the market, and then I slept. Will you go to the market?
+Alice has eaten up an apple. And Kevin ate an apple too.
+Alice draw pictures. I don't.
+Who threw the rock? For example, I didn't.
+This restaurant serves the food that I like. However, my mother as well makes the food that I like.
+You are my brother since we are born from the same mother.
+Are you a Buddhist?
+The cloth is on the table.
+The sea is covered by a fog of cold drops.
+This box is 10 kilograms in weight.
+The brown dog found a white rabbit.
+This is a brush for painting with small bristles.
+Are you disconcerted of using Lojban?
+Good and bad events happen at the same time.
+This is a hand-controlled machine for grinding grain.
+This is a hand-controlled apparatus for getting water.
+At this time, night is 5 hours long.
+I was walking on the grass on foot when you arrived.
+It's quite often that I visit my father.
+This is a wound in his mouth at the place where there was a tooth removed by a doctor.
+I prefer white chocolate to dark chocolate.
+I need a head helmet.
+You disappeared from my view.
+I am busy preparing food to feed my dog.
+This is a farm covering a large parcel of land; it's kept by my sister and produces grapes.
+Let me give you these beads in exchange that you show me your breast.
+The window in the car is open.
+The garden occupies a large space.
+Is this spade for digging ground or for cutting roots?
+I found some footprints in the sand.
+It was hard for me to walk on the sand made of small stones.
+Bacteria colonize the intestines of a child soon after it is born.
+I am driving a car transporter.
+You should study hard.
+This light bulb gives a bright light.
+Turn right.
+Turn right.
+The wheel was rotating around the rod counterclockwise when viewed from above.
+This is a map showing roads of an alien city.
+Show me a map of a place where you and I haven't been.
+It's raining.
+It was snowing hard onto the lake from a large cloud.
+She and I discussed a piece of art.
+Dial 911!
+Dial 911!
+The girl pushed the boy on his head.
+Look at me.
+The authority to be a farmer on this land has been given to me by my father.
+He can kill two birds with one stone.
+This lake is shallow in reaching the bottom from the surface.
+This is a fire gun.
+A colony of birds moved to this city.
+These days are the era of using computers.
+Your demands vary to much degree.
+This city is holy to all people here.
+This city is in the center of the country.
+The insect is 1 centimeter long.
+I inherited the house from my father according to his will.
+I will go to forest tomorrow at dawn.
+Good morning!
+It is the morning of a new day.
+I cannot but wonder at his skill in swimming.
+You are a god of rain for me.
+At what time does the performance begin?
+ 'The Moon is a harsh mistress' is a fiction about logical languages.
+I have my faults making other nervous.
+I drove a wedge into the floor so that the door was open.
+To me {zabna} is confusing in meaning.
+Are you really confused of deciding what to do?
+My blood type is A positive.
+The evening sky became turquoise.
+Meat is not a food for horses.
+I like Chinese food.
+My knee is injured.
+Hydrogen is the lightest element.
+Does the infant understand Lojban yet?
+This human gland secrets sweat.
+Is any of you awake?
+I got up early.
+Wake me up at 8.
+I repair the chair so that one can sit on it.
+I explained to the teacher my absence at the meeting that I didn't know that I should've been there.
+This field is untamed.
+He rides an untamed horse.
+Clean the window with a damp cloth.
+I learn Lojban.
+I learnt that humans are not monkeys.
+I read in order to learn.
+I cut the wire into three pieces.
+Two meters is the dimension of the room in length.
+It seems to me, the meeting will never end.
+The world is infinite in space.
+I kissed her in the ear.
+Are there oak trees on the mountain?
+I was surprised to see a lion.
+There are creases in the cloth.
+Smooth out it.
+Insects are arthropods.
+The woman has thin legs.
+I feel happy that we talk in Lojban.
+Who cares when she gets married?
+I wonder if I should tell Alice what I just did.
+I put an oil paint (with clay as a pigment) on to the wall.
+What is the length of your waist?
+Take chopsticks for cooking hot food.
+The bird is flying.
+To look into your eyes is a test of your sincerity.
+I lost my ability to ride a horse while living in the city.
+Would you like cheese?
+I will write &quot;Hello, world!&quot; on the paper.
+Why are you smiling?
+The internet is a system with computer nodes, using which people communicate.
+I've eaten a banana and two mangoes.
+The girl is young in how much she experienced.
+I'm studying the history of the company according to new analysts.
+Now it's the season of rains of year 2005.
+Are dog louses dangerous to humans?
+The word is strange to me in meaning.
+It's strange that Tom is not present.
+A rubber ball jumps because it is elastic.
+Will you drink coffee or tea?
+The person doesn't look like a woman but she is.
+Slow speech is the characteristic of that man.
+I want to lie down in bed.
+It can be dangerous for your health to do what Kevin suggested.
+You are at risk of getting ill.
+A friend mocked at the manner I walk by saying bad words.
+My mother was ashamed in front of the crowd of my conduct.
+What is the password to your account?
+Metric scale measures the distance between two points.
+I don't understand the relation between the smell and your purchases.
+They say the sound is related to a large mammal that produces it while passing here.
+The fact that I was in Japan is totally irrelevant.
+Thank you for helping me.
+Thanks in advance.
+This is a medical school serving in this area teaching therapy methods to young students.
+I'm in primary school.
+Are pine nuts of this conifer tasty?
+The music is loud even when you are in this room.
+Tom is tall.
+The mountain is high.
+The meeting was long.
+I lack the desire to eat.
+Looks like you lack any emotions.
+I don't have a pen.
+This is moss growing on rocks.
+Alice leaving the office was early according to my assumption.
+You wasn't polite in saying that the teacher isn't right.
+He left the room via a window.
+Twist the rope into a loop.
+I study arithmetic (mathematics of quantity).
+The meeting will be short in duration.
+The book is of little importance.
+This land has a lot of mountains.
+{ka} is a grammatical particle of class &quot;NU&quot; (clause prefix)
+What is your real name?
+My name is Gleki.
+My brother calls me &quot;Rabbit&quot;
+She started laughing.
+I am a member of a state committee.
+The person uttered &quot;A!&quot; expressing his happiness.
+3 kilograms is a normal weight of newborns.
+These women have long necks.
+I rewarded the dog for bringing the stick by giving it sugar.
+The hair is neat in being organized into a shining part.
+My friend appeared new to me in being able to play the piano.
+Nothing is new under the Moon (saying).
+He tried to make gold out of lead.
+The paper is below the book.
+Children suck up milk from breast into the mouth.
+This sea is deep in reaching the bottom from the surface.
+Please, bring a deep glass.
+My hand hurts.
+I have a sore throat.
+I'll get fruits for myself.
+I handed Kevin a knife.
+There is ice on top of the mountain.
+She has climbed on the mountain.
+The man asked me to open the door by moving his hand.
+The sauce is hot.
+The smell is irritating.
+This is a radio transmitter sending important messages on short waves to portable receivers.
+A tree is before (in front of) Alice from Kevin's position.
+A tree is in front of me.
+A shadow passed before the moon.
+You look smart in the shirt.
+She is harvesting grapes from the garden.
+Bears live in this forest.
+I told a story about fairies.
+In the fall leaves that are green, turn red.
+Now it's summer of year 2005 at my place.
+Is it now autumn of year 2005 at your place?
+The tide in the sea is high.
+The size of the hole of the vagina is enough for the child to pass.
+People didn't like the new tax on keeping cows levied against everyone by the government.
+25 dollars is the tax for keeping cows.
+This is a machine for pumping out oil.
+I was afraid of shadows of trees in moonlight.
+The person taught us the best style of speaking Lojban.
+The mother taught the child that talking loud isn't polite.
+The Moon, yellow, round and bright, is in the sky.
+I read a book with an interesting content (an interesting book).
+The basket is full of paper.
+It's possible that Alice will be late.
+We were modest in our expectations.
+Hens eat millet.
+When would he come was unpredictable.
+He was involved in a crime.
+Car produces energy by burning fuel.
+The bird caught a worm.
+This ring is of pure gold.
+And then I said to the woman &quot;You are very kind.&quot;
+You said that you would cut the bread.
+This person makes horseshoes.
+The boy was holding the dog near the chest.
+I haven't yet decided what to do.
+It's hard to choose.
+I chose Alice from the girls.
+Alice chose the blue dress out of all.
+I'm thinking about what to eat.
+A clock stands on a chest of big drawers.
+What is that object over there?
+This is a knife for cutting bread.
+I will take a bag of tomatoes inside.
+I fought with my sister of who would go with parents.
+He was playing a hand struck drum.
+The person smokes something that has a shitty smell.
+The monkey was hanging its tail from a high branch.
+Using another key is the answer to the problem of opening the door.
+I saw an animal in the forest. What species does it belong to?
+The smoke from the burning trees is becoming dense.
+Wind puts pressure on the sail.
+Let's dance to this music.
+A bullet from a gun reached the house.
+People live all over the island.
+I wished her good luck.
+The monster cursed the brave person to die soon.
+There is ice on the road.
+Engineers argued for the road to be located to the north and against the house to be built of rock.
+The museum is far from here.
+Chinese language is far from English in the manner of pronunciation.
+Eduard dares not tell Tom the truth.
+I hit his jaw with hand.
+I put my hand into the pocket of my coat.
+Please put on your shoes.
+The girl wears a shirt as a skirt.
+He ruined his health.
+The fire destroyed three of the buildings.
+The gift was tied with a ribbon.
+Several ducks are swimming in the lake.
+Being a criminal are the data about the man collected by monitoring his actions.
+I'm going to talk to you about experimental data.
+On February 12, 1995, an accident happened here.
+The fence is 10 centimeters thick.
+The fingers of my right hand hurt.
+I am obliged to help you in return for your help.
+I owe my success to my father.
+This bottle is one liter in volume.
+The house is 10 meters high.
+Dolphins are generally smart.
+This light bulb has a luminous intensity of around 120 candela.
+I am eating a bean stew.
+I have a toothache.
+The car traffic is intense in the streets.
+Wait a bit. Just a moment!
+Did you wait?
+Thank you!
+I am waiting for my father to arrive playing before leaving.
+For a while, the car moved on the soil.
+I chopped a pile of wood.
+She was shaking with fear.
+The sound woke me up since it was loud.
+Within the borders of this city, the rain is in the south.
+I am regular in cleaning my room every week.
+2 is the quotient of 13 divided by 5 with the remainder 3.
+The mountain produces clouds of smoke.
+To live here is my fate.
+This is a bathhouse.
+I nailed the picture to the wall using a hammer.
+This is a nail for fastening horseshoes.
+Where have you been, dear?
+Life is dear to everybody.
+The spring of fluid emits water.
+It's just a drop of water.
+How long have you been swimming in the river?
+The dog stands low compared to the cat climbing the tree.
+I fell down to the foot of the fence.
+He drank some water from a cup.
+I will return in 10 days.
+I want to tell something funny to make you smile.
+I want an apple.
+I know that I exist since I think.
+I know a lot about Lojban.
+Yesterday in the daytime, he stayed at home.
+My friend is the author of a drama about the problem of sexes.
+You are correct in what words you use.
+The roof of the building needs fixing.
+3 is the logarithm of 1000 to base 10.
+Alice and Kevin looked in the opposite directions.
+I gave you an apple.
+He almost froze.
+I was distressed at being alone.
+Are you distressed at your sister being ill?
+I am as long as my sister is. But I'm not her.
+During Australian winter of year 2005 I was here.
+You are my ancestor since you were born before me.
+I want to visit the Antarctica.
+My father was an architect of this building.
+Kevin is very enthusiastic about getting a new job.
+I practice tennis.
+I discovered false statements in what Alice said.
+I found that the city is near.
+I found the story funny.
+Among my friends, it's common for Kevin to say such things about me.
+The fire in the forest burning in the wind becomes intense.
+The wood is burning.
+This is a sailboat.
+This mill operates on a water wheel.
+You are my aunt since you are a sister of my mother.
+Our success depends on how hard we try.
+The price of a good is a function of its supply and demand.
+I don't depend on you to understand this.
+f(x) = (x + 1) (x − 1), where x>1, f(x)>0.
+The person is very tall.
+My rapidity increases.
+He is alien to me in what he does.
+What are you going to do on weekend?
+This is a mill producing bread from grain.
+Fog prevented us from seeing anything.
+I translated {coi ui} to English from Lojban as &quot;Yay, hello!&quot;
+Baby crying annoys his mother.
+You annoy me.
+I couldn't resist your smile.
+Do you refuse to help me?
+I fell down from the stairs onto the ground.
+Alice dropped the bag on the table.
+From my viewpoint, Alice was looking at the direction of the window.
+One makes a standard cake from raw materials by mixing flour, butter, eggs and sugar together, then heating, then greasing the cake with butter, and after that, it is ready.
+There were strange things happening there.
+Whatever shall be will be.
+I'm not completely sure that all that I know about the world are actual facts.
+I handed out candies to children one candy to each of them.
+The water is already boiling.
+The water has an ugly smell.
+A proton has a size of about 1.6 femtometres.
+I divide the orange into three pieces.
+She was angry with me for not coming.
+The situation is crazy.
+Anger is a form of madness.
+There is a crack in the wall.
+The girl sewed pieces of cloth using a needle and a thread.
+The pen costs 50 eurocents.
+Everybody sang at the top of their lungs.
+This land is fertile for reaping grapes.
+This female is fertile for conception.
+Take the fruit scraps to the street.
+This fish is female in having a certain kind of gonads.
+I like these green figs.
+I watched a movie about magical beings.
+I like fishing.
+I created a story out of my real experience to amuse the child.
+Stop flirting with my sister by sending her gifts.
+The law specifying that no citizen should keep a dog is crazy.
+The flute has a pleasant sound.
+This is a current in a deep bed running towards a lake from high springheads in the mountains.
+I failed the test again.
+The attempt failed.
+I can't find the pen.
+What a nice face she has!
+He told me to wash my face.
+This flower is a rose.
+This is a current in a deep bed running towards a lake from high springheads in the mountains.
+The traffic in this city is intense.
+I have a runny nose.
+The mountain erupted jetting hot matter.
+I'm lying on a flower field.
+The heat was producing bubbles of gas in the water.
+This is a landline phone, not a radiophone.
+This is a wooden fork for cooking with three tines.
+Strawberries are really sweet.
+Do you speak French?
+Forgive me for being late.
+You and I differ from each other in what we like.
+I want to see African elephants.
+This car is easy to handle.
+It wasn't easy for me to find the keys.
+2 = 8 / 2.
+I offered the mother to help the child to go down.
+He frowned looking at me.
+I have a printed copy of this picture made as a tablecloth.
+Dead leaves float on the surface of the water.
+I'm lucky in that everybody listens to me.
+There is one pear and it is rotten.
+Alice was found not responsible for the crime by the committee.
+Snow covers the ground.
+{le} is a gadri.
+Mother turned the meat and the bread into lovely sandwiches.
+I'm sure she will make Kevin her spouse.
+The cold wind turned the leaves brown.
+The bird is high compared to me.
+Water would be fine for your throat.
+The door is closed not letting the strangers in.
+The tree is thick in the middle.
+I sense it being irritating by tasting it.
+Male elephants have large testicles.
+The doctor was curious about the problem with the anus of the man.
+He turned weak people into a powerful army by making them execute orders.
+This car is powered by gas.
+The Sun is now above me.
+This is a handrail.
+You made me cry.
+The blade of this knife is made of steel.
+This plant has long roots.
+I caught a fish with a hook.
+I feed my dog twice a day.
+That gadri precede selbri is the grammar of Lojban for sumti.
+He guides me in studying Lojban.
+This network station sends 1 gigabit of data per second.
+We made camp near the lake.
+We camped there for a week.
+I am a member of a group of those who learn Lojban.
+{zgana} is a gismu (root verb).
+The tea is hot.
+I am happy that you won.
+Don't have sex with her just because you want to.
+I'm translating this text to English.
+The gloves kept her hands warm.
+Proton is approximately 1.7 Yoctogram.
+The mass of the Earth is approximately 6000 Yottagram.
+Centimeter is a unit on metric scale, which measures distance.
+The apples are 1 kilogram in weight.
+He was holding a rod.
+Put some grease on the wheel.
+It squeaks.
+It's a grid with three horizontal and two vertical lines.
+The frame of the fence is wooden.
+At night, all cats are grey.
+This apple fruit is green.
+The park is public and open to people.
+This is a country of wild people covering not a big territory.
+This mushroom is poisonous to humans.
+The industry of producing handmade dresses is intensely developing.
+I am involved in music industry.
+I'm working on learning Lojban in order to quickly talk in it.
+The crowd of people is surrounding the building.
+And then the child started rolling down the slope rotating around his chest.
+Hey, look, three geese are swimming in the lake.
+Rats are attacking the building to get the grain.
+I keep here maize grain.
+I scraped the skin off my knees.
+The fire illuminated the cave with red light.
+Nice restaurant.
+In the hotel there is a restaurant serving tasty food to guests of the hotel.
+My mother had uterus removed.
+I've got the flu.
+The information about flights is important to me.
+That he is a criminal is the information about the man collected by monitoring his actions.
+I am interested in studying insects.
+Playing music is the initial part of the performance.
+The ability to determine who is right is the sign of high intellect of my child.
+Tom chats in IRC channel #lojban of freenode network.
+You slow my work down by your constant talk.
+Stars decorate the sky.
+The rocket will go from the Earth to the Moon.
+The accident happened because he hadn't been careful.
+There ensued something strange.
+How to cook rice without starch?
+My feet are cold.
+Alice and Mei Lee were at war with each other in deciding who was prettier among them.
+I heard a loud bell ringing.
+Ankle is a joint between chest and leg.
+I bumped into a friend of mine in the street.
+I represented my country in discussions on getting oil as a person that takes decisions.
+This is a bill for the fruits issued to my company by customers from another country.
+I live in the suburbs of London.
+To us Alice appeared to be smart.
+Kevin acts as a guide.
+The road is narrow here.
+Your passport, please.
+This is my passport issued by the state allowing me to go to Japan.
+What does the commander of our committee think?
+I should stop talking and start listening in order to learn.
+I suggest you follow the rule or regularly asking questions.
+Water bombs are used by us to stop fire.
+I ate several strawberries.
+My wife gave birth to a daughter.
+May I borrow this pen from you?
+I will lend you a car.
+Alice is between 20 and 30 years old.
+Hey, Lojbanist! Where do you live?
+Wet wood is resistant to burning.
+I decided that we need to stay.
+Have you decided that your home is comfortable?
+We welcome the decision of the committee.
+People decreased in number by three persons.
+What is your price for this?
+Three dollars is the price of riding a toy car for children set by the owner of the car.
+Is this your money?
+Money issued by the American government will be used to help the poor.
+I like grape jelly best.
+Being controlled by more than one government is the political system of this area.
+We'll return here in two weeks.
+Do you belong to an Abrahamic religion?
+The wood is burning.
+A girl found a stone that later was turned out to be a gem.
+It shocked her that she could get to another country.
+The axle of the two wheels is wooden.
+This is an army of firefighters of this country.
+You are worth being respected for your hard work.
+I earned 100 dollars for washing the dishes.
+Dogs are in pursuit of a fox.
+Please, follow me.
+I pricked my thumb with a needle.
+I have a runny nose.
+The mountain erupted jetting hot matter.
+According to a wise person, it's true that all humans are kind.
+The bird has sharp claws.
+This is an angle from vertex A having the lateral of 0.5 meters and subtending two steradians.
+He grasped Alice's head with his hand.
+This is a knot of many blue ropes and one red rope.
+How many genes in humans determine the color of skin?
+I am proud that you are now able to play the piano.
+Can you play a 7-stringed guitar?
+The terms &quot;pipe instrument&quot; and &quot;horn&quot; are close in their meanings.
+I have a job as a fruit seller.
+Do you have the job of a programmer?
+Stir the tea.
+Stir the soup until it boils.
+Logic is the foundation of Lojban.
+Trickery is the basic of every war.
+Monitoring and analysis is the foundation of every science.
+I knew intuitively that she was lying.
+He is a sociable person interacting with many people and regularly organizing parties.
+Free market is the economy of this region.
+I drank an alcoholic drink distilled from rye.
+I washed dishes using soda.
+I envied the ease at which my brother talked in Lojban.
+Branches of these trees are snow white.
+I don't understand you.
+I don't understand the meaning of said by you.
+This point is the limit that I can reach.
+These are scissors for cutting paper.
+Alice won the main prize gaining the victory over other girls in a long distant race.
+This a vaccine for human use, it protects against viruses and is to be injected into the blood.
+This rod is metallic.
+Acid destroys metal.
+The stump was immersed in the water.
+I cleared the table of dishes.
+This is a spring of clean water.
+I dared to support his opinion.
+I think Alice won't win since she is tired.
+She has a natural talent for playing the music.
+You are a boring person.
+Chickens like seeds.
+I touched the apple with the tip of my tongue.
+The tip of my nose is frozen.
+The deer has long horns.
+Where can one buy fruit juice?
+It's false that the boy is familiar with Alice since he is wondering who she is.
+My boss controls me in working on this.
+The police controls the surroundings.
+Spiders weave nets from secrets of their glands.
+Alice competed with other girls in a long distance race with a monetary prize for the winner.
+Lojbanists from various countries gathered in a house.
+It was amusing to swim near the reefs.
+The sofa adds comfort to the room.
+The animal is alive since it is weakly moving.
+Alice is tied to a chair with a rope.
+Call 911!
+I will call you after I leave the school.
+Is there a free table?
+What is your city address?
+What is your e-mail address?
+{i lo mlatu cu pinxe} is a sentence about animals in Lojban language.
+Mother cooked a cake by putting a raw &quot;cake&quot; in the oven.
+This is a fishing net.
+That is a colander that lets the water pass and retains rice.
+I was attentive at was he was saying.
+The girl is Chinese in her face features.
+This clock measures seconds to the precision of 0.5 seconds.
+I added some juniper twigs to the fire.
+Are you serious in your intent to leave this country?
+The space worker weights 100 kilograms in the gravity of the Earth.
+The researcher used bacteria for tests.
+Competition was fierce for me.
+I watch insects of all kinds.
+I was getting clumsy in my movements.
+The phone was clumsy to use.
+I have a great view of the sea from my room.
+Please, give me a cup of coffee.
+This is a camera recording images of the city to a data center.
+He made a big fart.
+The Lojbanists' chartered oil drilling company discovered oil at the bed of the sea.
+Parents warned us about heavy weather.
+I put the paper on the mantel.
+I can't sleep.
+Tom had to dig his car out of the snow.
+Cow dung makes soil fertile.
+The window is open letting the fresh air in.
+Open the window.
+Open the window.
+My room is a mess (in where are my clothes).
+The researches were hunting fishes to study them.
+The column supports the edge of the roof.
+There are more than 10 members in the committee for developing the language.
+Wearing the same uniform is common for every student.
+The cheese is made from goat's milk.
+I counted the people as 12 couples.
+To me the word is dim in meaning.
+Alice has big beautiful eyes.
+I didn't expect you to return early.
+I'm healthy in that my throat doesn't ache.
+My dog is everywhere with me.
+It was pleasant to work with you.
+I wasted two hours waiting for you.
+Here are two pieces of magic.
+It's a trash truck.
+A car of what company are you going to buy?
+Can I pay with a credit card?
+Open the window and let in some fresh air.
+Such trip is too expensive to me.
+She put a waist around her waist.
+I'm reading a magazine about recent news.
+I cut the bread into 10 pieces.
+I caught cold by walking outside.
+The boy caught the ball with one hand.
+I feel sorry for you that you failed to win.
+Do you play soccer?
+It's around 273 degrees Kelvin (0 degrees Celsius).
+Breast cancer can be cured.
+There are many satellites flying in outer space near the Earth.
+My hair is long.
+Dog, don't touch my ears!
+The core of the Earth is hot.
+They say she is from some South American country.
+There is a hole in the roof.
+The apples are 2 kilograms in weight.
+This box is one kilometer in length.
+A friend of mine is an author of a magazine that is delivered via the internet.
+Take a cushion and go to sleep.
+Oxygen and hydrogen make water.
+The sea is 1'000 meters deep.
+The tip of the blade is sharp.
+This is the main street of the city giving access to various shops.
+She cried large tears.
+Are you from Japan?
+The road crossed what was the rabbit's track.
+We sailed on the boat along the lake from the home to an island.
+I flew from Japan.
+Did you ride the bus to Paris?
+The cat is measured 0.5 meters in length.
+The mass of the cats is measured as having 4 units, in other words, there are 4 cats.
+I belong to the merchant class of inhabitants.
+You are not my type.
+This is another type of message.
+The air was clean to pass a distant voice.
+The boy was pretty clear in what he meant.
+Iodine is a halogen.
+Have you worked the cup out of soft clay?
+The shirt was loose on me in sleeves.
+I ate a cabbage soup.
+The bucket is in a corner of the room.
+Can you crack the coconut?
+Coal is burning.
+I've used up the coal.
+This is a comb with thin teeth for putting hair in order.
+The star is the tip of the tree.
+This is the border between the two rivers.
+Alice's knees buckled.
+The cook leaned over the fire.
+The cork of oak trees is thick.
+The raven is black as coal.
+Put the coat on.
+People of not less than 18 years only have a right to marry under the polity of this country.
+This field is 2000 square meters.
+A well is the beginning of this river.
+Trees come from fruits.
+What is your origin?
+A representative of the governor in public relations started talking to the nation.
+The attempt ended in a failure for the third time.
+I believed that you would return.
+These are the crystals of salt.
+What is the reason for your lateness?
+He cried, &quot;Help!&quot;
+Where are the crocodiles?
+Turn left at the crossroad.
+I was waiting at the place where the main road was intersected by a dirt road.
+Would you like ice cream?
+The child broke his thigh.
+I put ice cubes into the drink.
+I'm curious what is that woman doing?
+I feel comfortable lying between the two pillows.
+For me this banana is sweet.
+Bon appetite!
+Eating insects is the culture of most of humans.
+This hotel room is large.
+Our guide can ride a camel.
+This is an iron containing ore mined from mountains.
+The glass is empty.
+Soldiers formed together a rectangle 5 meters in each side.
+We should take care of the patient.
+The beer is bitter.
+As for {i naku mi nelci} the whole clause {mi nelci} is in the scope of {naku}.
+I can't get that fork.
+Don't be cruel to me.
+The parents were cruel to me in not allowing playing outside.
+I heard wolfs howling.
+Who is that girl in pink?
+Alice dragged Kevin upstairs by the hair.
+Please give me a glass of milk.
+The girl still regularly her mother's milk.
+Can you lift the stone?
+I will probably rain.
+Bees produce wax.
+This jacket is old in how long it has been worn.
+I'm going to visit a lake in the park.
+Alice's home is adjacent to the school in where it is located and it is to the east of the school.
+Bread contains a lot of protein.
+This is the flag of Lojban.
+Take a basket with strawberries.
+The doctor examines the patient by listening to the lungs.
+This cheese is made from sheep's milk.
+It's a can for waste.
+I keep my work and my leisure time in balance.
+This is a family of young people bound by mutual love.
+I can see, you are an expert in creating beautiful songs.
+Love is an art.
+The person tied Kevin to a pillar with a rope.
+Brass is an alloy of copper and zinc.
+The lotus turns into a flower with a pleasant scent.
+I am lazy to look at the engine.
+They took my rights on owning the car.
+I took a candy from the box when other weren't attentive.
+This lens focusing light has a long focal length.
+I put on goggles in order to dive.
+Bring me my glasses.
+It's getting cold.
+According to my mother, I returned home late.
+д is a letter of Russian alphabet representing sound {d}.
+The cloud are electric in that they produce lightning.
+She had chubby cheeks.
+This is a chain with big silver rings.
+Cats will be discussed before dogs.
+I've had a hard life.
+You'll get into trouble.
+I underwent strange sensation.
+Not believing in God is not a religion.
+Animism is a religion of people living on this land that asserts that every object contains a spirit.
+What is your religion?
+Don't swim in the sea!
+That was just a lightning that stroke far away from here striking from a cloud.
+The police officers formed long lines in order to protect walking people.
+The kitten is lightweight.
+Tell me a story about fairies.
+I read a log of messages, which were sorted in the order of being sent.
+It's two liters of water.
+Wipe the liquid with a sponge.
+I travelled abroad.
+Is eating chicken liver good for you?
+The furnace is stoked up with wood.
+There isn't enough fuel.
+By the fact that there are footprints of a girl inside the house, I conclude that Alice was here.
+I'm a Lojbanic person only in that I'm interested in Lojban; I don't speak it.
+I slept on the floor of my room.
+Foxes eat hens.
+{ki'ogra} is a lujvo meaning &quot;is a thousand of grams&quot; with arguments meaning &quot;what is measured in thousands&quot;, &quot;the number of grams&quot;; affixes of the lujvo are built from {kilto} and {grake} attached sequentially.
+I washed off the remains from some dishes.
+The baby is naked now.
+The Earth has one natural moon.
+Frost covered the ground.
+This mollusk moves slowly.
+For me the food is awful in chewing it.
+Dolphins are mammals.
+The speed of this car is changed manually.
+The stone is magnetic in that it sticks to metal.
+The stone becomes non-magnetic when being heat up.
+The man seems to be mature in his sexuality.
+The disappearance of the rabbit performed by John was magical for the child. 
+This is a Buddhist temple.
+What was your mother doing when you got home?
+The cloth is uniform in texture.
+I have never eaten mangoes.
+The room is dark.
+I'm the standard of determining of who will win, however I decide that will be so.
+That hill will be the reference frame for observing the land.
+I'm satisfied with the conditions in my house.
+Sugar attracts ants.
+I'm going to put on a hat.
+The cotton is of high quality.
+Your words are inconsistent in meaning with what your boss said.
+This is a key incompatible with this lock.
+I had to take shelter in an old building in order not to become wet.
+This is a vehicle for carrying goods.
+This is a vehicle intended to transport goods but actually used for transporting people.
+Doing what the ill person asks should be you ethics.
+Is mercury a metal?
+This bread is made of rye and has the form of a block.
+This is a cable made of hemp.
+This place is marvelous to me.
+I made mashed potatoes.
+The child seems to be slow at walking.
+The past winter lasted for 3 months.
+Wipe your shoes on the mat.
+This shirt is linen.
+I ate a sandwich with butter and bread.
+This car has a powerful engine.
+Oats have long been the main food for horses.
+Bread is made of wheat.
+She had a forehead open.
+I own three million dollars.
+Please choose an image that does not exceed 1 Megabyte.
+{li vo du li resu'i re} is a mathematical expression in Lojban.
+&quot;(x+15&~15)&quot; is a mathematical expression in C language.
+For me the woman is beautiful to look at.
+The mind of monkeys is similar to the one of humans.
+You are my brother since we are born from the same father.
+The meeting is approximately 60 minutes long.
+I measured the length of the table as 1 meter with accuracy 0.1 meters.
+He was standing in the middle of the road.
+cni rni dn is an encoded Lojban phrase {coi ro do} where {n} is a replacement for {o}.
+{coi} is a greeting encoded in language.
+The doctor ordered me to sleep.
+My mother treated my ill back by applying an ointment.
+The microbe is 2 micrometers wide.
+The table is 800 millimeters wide.
+The water is warm (not hot).
+I'm tired to a moderate degree.
+The manager ordered me to come on time.
+Water reflected the sunlight that Alice could see as marvelous spots.
+The wall echoes the sound several times.
+That man wearing yellow is your father.
+I hid the pie from the child.
+A baby deer can stand as soon as it is born.
+"Someone" (having such a name) is famous among Lojban speakers.
+The story of one of the main buildings being hit by some powerful objects was one of the most famous events for people of this country.
+Kevin became famous as an author of fiction.
+Kevin rose to fame by writing fiction.
+This box is one meter in length.
+I'm looking for a woolen skirt among things in this room.
+Air is a mixture of several gases.
+The box is to the side of the wall.
+Curiosity killed the cat.
+I keep a cat and a dog.
+I think tea is much less tasty than coffee.
+Mold was a sign that the room was damp.
+The air became warm.
+There are many satellites orbiting the Earth.
+The war is just a point in human history.
+The Earth is just a point in the Universe.
+Open your mouth.
+This is a mill grinding grain.
+12 grams of carbon is one mole in amount.
+The monster smiled in a cruel way (the monster's smile was cruel).
+I remember about this city that 100 years ago it was the main city of this country.
+I forgot what to say.
+I like patterns of leaves that form circles.
+How many died?
+The cat was mildly rubbing against my head.
+He is harvesting rye.
+I mailed a present to a friend from a local post office via a private mail system.
+I sent a message via the internet.
+Using a hammer I hammered a nail into the wall.
+This is an automatic hammer for nailing with a large head propelled by a motor.
+Mathematics studies immaterial things.
+This is wood from old trees.
+To breathe fresh air is my motive to go to a garden.
+Necessity is the motive for every invention.
+I am going to visit Paris.
+I can't speak French at all.
+You are completely crazy.
+Are you done with cooking?
+Alice lives in the world of her fantasies.
+This is an example of sweet wine.
+This is an example of old architecture among buildings.
+Clouds are curtains of the sky.
+This is very expensive.
+I highly doubt that.
+The person is moving to the outside from the building via the window.
+Alice will move the box to another room.
+I'm going to visit the Zoo.
+Where is the museum of art?
+To wait for a while is not a problem for me.
+Orange juice, please!
+This is a male cat since it has a penis.
+The bull's penis entered the vagina.
+The bird has its wing broken.
+8 is a number.
+White bread and butter, please!
+I tasted the bread.
+I am 25 years old.
+I have been living here for 4 years.
+It's hard for me to wade through this forest.
+Have you ever tasted pumpkin sauce?
+Who is that boy?
+Careful, the man is holding a gun!
+One nanometer is the length that a fingernail grows in one second.
+This is a coconut with a thick shell and a tasty kernel.
+The sun is orange.
+The fact that Eduard was in Japan contradicts my assumption.
+People of what nationality live in this area?
+What is your nationality?
+Argon is an inert gas.
+Your have a cold nose.
+It will consume a lot of energy to move this rock.
+I like playing tennis.
+I like whenever you say such things.
+I prefer coffee.
+There are plenty of fish in this river.
+The teacher came in.
+Wanting something implies lacking it.
+Being easy doesn't imply that it is good.
+Good night! (a well-wish)
+Tonight I will be in the forest.
+Nickel is a hard metal with reflective surface.
+These light sources furnishes the room making it amusing.
+Is this citrus sweet or bitter?
+A pretty woman with yellow hair was walking in the park.
+Nerves in my finger don't work.
+I need to return home to get the keys.
+The girl is knitting a sweater from fleece.
+The girl smiled at me.
+The girl is aristocratic in her behavior.
+I am noble by birth.
+I made a statement to the boss about the experiment: &quot;We don't know yet.&quot;
+The governor will announce a new economic system.
+I ate a soup with noodles.
+Today was the first time I ate noodles.
+The flower has a magenta color.
+I made Alice a promise to help her on condition that she keeps silence.
+The countryside is pleasant.
+Lojban is neutral in terms of what culture matches it best.
+What's up? What are the news?
+No news from me for you.
+News about the situation were frightening.
+The news are that I bought a phone.
+No news are good news.
+I will eat an omelette made with eggs and tomatoes.
+I hope it will be sunny soon.
+I wish you came.
+Heart is a part of body.
+The train passed the dark hole to reach a rural area from the suburbs of the city.
+The farmer was deciding whether fruits were ripe.
+It was wicked of you to take money.
+Are you wearing trousers?
+I climbed a palm tree.
+This is a tray with plates and cups on it.
+I can touch-feel the surface of an orange. It is soft.
+I broke a plate.
+The plate got broken.
+This is a pump for filling up the air into wheels from the outside.
+I can smell a scent of an orange. It has a scent of flowers.
+I can smell an orange smelling of flowers.
+The room really stinks.
+Yuck, it smells like shit.
+The sponge absorbs a lot of water.
+I like to walk in the parks with my friends.
+This is a slice of bread.
+The sister is now at piece with her brother.
+The word {pacna} is parallel to {kanpe} differing in that {pacna} describes desire and {kanpe} doesn't.
+Workers complained about their salary to the management by halting their work.
+The girl is Alice's child.
+Look at this page of the book.
+2 is the ratio of 4 with respect to 2.
+It's a small fraction of the time from now until leaving with respect to the time from leaving until returning.
+This worm is a parasite in pigs.
+In this dress, you look like a young girl.
+My father works in Tokio.
+Would you like potato soup?
+I brought a pot of water.
+I wrote a letter on a white paper.
+Have you at least once tasted Russian pelmeni?
+A typical banana is yellow.
+I create poems about different people.
+That is a blue, not black pen.
+I touched a worm with a spade.
+Is Alice your friend?
+I am pleased to meet you.
+I'm thinking of where I was.
+I become a pear because I eat pears.
+Science allows understanding the world.
+The window permits the passage of the fresh air.
+Please, allow me to read the book after you finish reading it.
+The parent let the child play in the park.
+I'd like some plum jam.
+1 light-year is approximately 9.5 Petameters (Pm).
+Leaves of tress become yellow in the autumn.
+The atom of hydrogen is 25 picometers in size.
+Give me a pin for fastening paper.
+Kevin begged Alice to stay.
+I commented to the parents that going outside while it had been raining had been a mistake.
+I bought two child tickets to Boston.
+Your face is pale. What happened?
+8 = 4 x 2.
+The orange has been peeled off.
+I peeled the apple off.
+The peel of the apple is thin.
+The girl used a computer to get the necessary information.
+This is a feather of my bird.
+Pee to the pot.
+Pee to the pot.
+Due to beetroots, he pissed red.
+He is poor in that he doesn't own a horse.
+We became prisoners of our home due to the snowfall.
+This is a red pencil.
+The man was in horizontal position and was probably sleeping.
+I drink tea from the cup.
+Do you play the piano?
+This is a picture of the coast that I made when I was in Japan.
+The boy is fat with his belly.
+The Earth is a beautiful planet.
+I am going to go to Japan.
+I'm planning to go to Japan to take rest.
+I paid my son for what he earned for helping me.
+Eduard hit my pubis with a foot.
+The cat jumped to the outside from the ground over the fence.
+The apples are ripe.
+Butterflies creeping along the flowers formed a beautiful flat shape.
+The farmer ploughed the ground using a large plow.
+Talking would be useful for you in becoming an expert in Lojban.
+The situation is hard to explain.
+I enjoy swimming in the sea.
+The route to the bus station from here is the following: you turn left, then go straight for a while, and then turn right.
+I wrinkled the sheet of paper in several places.
+The person owns the car illegally (not under official law).
+The plate broke into many small pieces.
+1, 2, 3 is a sequence of numbers where a number to the left is less than the number to the right.
+I could only see a sequence of words, the sequence the meaning of which I couldn't understand.
+What the use to you of reading a book that has no pictures?
+I love you.
+Am I not perfect in my beauty?
+I visit my parents every Sunday without fail.
+The rain kept the fire from spreading to the forest from the field.
+How many people are in this room now?
+It was really wise of you to tell me about it.
+The machine isn't printing the document on the paper.
+The man is to the right of the house from my position.
+This book contains prose about cultures.
+Proton is an elementary particle.
+Making bread is a process with ingredients flour, water and eggs where {one mixes them} and then {cooks}.
+The ball bounces because it is elastic.
+Are you afraid of ghosts?
+We are moving over the bridge across a river that connects a city and the rural zone.
+Dust covered the floor.
+A dust storm is coming.
+The person is a police officer enforcing silence in the street.
+This is a wooden pulley to lift water from the well.
+Lord, put courage into my heart!
+The movie put me in a happy mood.
+It was a clump of snow on the road.
+I have a swelling on my head.
+Kevin left earlier than I arrived at the hotel.
+This is my parents' garden where different crops are grown.
+This is flour.
+That would make sense.
+It's rational that you chose to talk in Lojban.
+Rabbits breed quickly.
+This angle subtends one radian.
+ 'gau' is a rafsi of the verb {gasnu}.
+A bear is across the river from me.
+Don't trouble yourself saying such things.
+You disturb me making me not learning Lojban.
+This flower has a delicate form.
+Alice is the main decision maker among the girls.
+He keeps pushing the car.
+I keep two cats.
+The heart is the muscular organ that pumps blood throughout the body.
+This is an organ of insects performing the function of listening.
+The light bulb continued burning through the night.
+The water continuously covered a large space.
+I heard a similar myth about a god.
+Bronze is composed of copper and tin.
+The statue is made of bronze.
+The dough is soft when being pressurized.
+Chao that you said was ironic in that instead of meaning &quot;Hi!&quot; it actually meant &quot;Bye!&quot; 
+The irony is that I'm not an American.
+I said &quot;Hello!&quot; to her three times.
+The process occurs for the fifth time.
+This bridge is a natural formation.
+The rat disappeared.
+Carbon is a chemical element number 6 and usually has the isotope number 12.
+That dog has a short tail.
+This is beef.
+Can only humans laugh?
+A boy threw a stone at the window.
+I survived that terrible situation.
+Reptiles inhabit the coast of the river.
+Are you rich in how much land you own?
+The food is disgusting to me.
+The coin is silver.
+The rhythm of the phrase said by him was similar to {la la tcu tcu la la}.
+{kansa} rhymes with {dansu} in Lojban in that three adjacent letters in each of those words are the same.
+Water drains from a tube through holes being under pressure.
+Intense traffic prevented me from getting to the office.
+Education is the agent of progress.
+I greeted Alice by waving my hand.
+She works hard which is unusual among students of her age.
+I was rare among my friends in being interested in events and not trends.
+Edward is a parent of Alice.
+This is a river in a dry land running its fresh waters in a deep river bed towards the sea from springheads in the mountains.
+I eat rice every day.
+I felt my heart beating fast.
+To drink tea is our ritual that we perform every day in order to talk to each other.
+I avoided becoming ill by eating more and plunging into hot water.
+The person evaded the police.
+The boy is throwing stones.
+A child touched the reflecting surface of the car with his finger.
+I drew a circle.
+This is a golden ring.
+This boy is European in how he speaks.
+The mythical animal was procreated by a human and a bull.
+The road is thick here.
+Roses in the garden have a pleasant scent.
+The old man is weak in being able to drink himself.
+The skin is rough.
+The ice is melting.
+Mineral water, please.
+The juice is made of sugar and berries dissolved in water.
+This juice costs three euros (European major money units).
+Do you speak Russian?
+This gem is artificial and made by my father.
+Ripe papaya smells disgusting.
+Cows provide us with milk.
+I will provide you with everything you need.
+Be my blood donor!
+He was sitting in the cabin of the blue car.
+Light up a match.
+2.5 is the decimal equivalent of the fraction 5/2 in base 10.
+He inhaled some smoke from the fire into his lungs.
+A sportsperson was gliding on the ice.
+Warning! The floor is slippery.
+I want some tea without sugar.
+I celebrated my 10th birthday by travelling to Japan.
+This is a slope towards the horizontal surface.
+I like fruit salads.
+Have you ever eaten a cassava cake?
+This computer is easy to use.
+Alice is not easy to understand.
+The bell had a loud sound.
+{oi} was the sound the brother emitted.
+I wrote down words and melody of a song.
+The girl is singing the song &quot;I love you&quot;.
+I tried to sing {ui}.
+I am aware that I made a mistake.
+I hope he is aware of my feelings.
+He was standing on the sand on his feet.
+I had a quick meal of eggs and coffee.
+I like tomato sauce in noodles.
+I was expecting rain and took an umbrella.
+To sleep is a requirement of being healthy.
+Support me against my boredom.
+The shell of this mollusk is spiral in form.
+What does this triangle signify?
+I am in concord with you in what we think about his actions.
+These people are in harmony with nature in interacting with each other.
+I study the medical science.
+Mathematic is a science of how numbers are related to each other based on their analysis.
+That is exactly what I want.
+The table is exactly two meters long.
+Kevin stroke a cat with a hand.
+The room is noisy.
+These flashes are too noisy.
+My friend operated the machine to dig ground.
+The orange has a soft surface.
+This fish demonstrates its female sexuality by laying eggs.
+You took a sexy feminine pose.
+The actor shows her female sexuality by wearing a short skirt.
+{mlatu} is a selbrivla.
+Furthermore, each cell in the body belongs to one out of many classes.
+The dog serves me by bringing shoes.
+Cover your mouth when you sneeze or cough.
+I doubt if it will rain.
+The result is still in doubt.
+This is a layer of plants between the mountain and the air.
+I dream about flying in the clouds.
+I dream the sound of rain.
+{i} separates sentence from sentence.
+My office is one hour away from my home.
+What is the distance to the sea?
+The doctor inserted the needle into Alice's arm so that the chemical got into the blood.
+I wash myself.
+Are these flies dangerous?
+The parent punished the child for breaking the plate by not allowing playing at home.
+I would like to buy a sofa.
+I dived to the cold water from the shore of the lake.
+He was whistling something loud.
+This is a coin issued by French government.
+I got three coins one dollar each in value.
+I had no idea of how kind to me you can be.
+Could you help me in studying math?
+Is the monkey smoking a cigarette?
+Alice was wearing a silk dress.
+Spider's silk can be durable.
+Please, pass me the salt.
+A salt of Sodium is a food.
+It seems to me that you are studying too hard.
+The attempt seemed to be unnecessary.
+Her skin was white as snow.
+I am free as a bird.
+You and I love each other.
+Don't be afraid of snakes.
+No wise man is respected by inhabitants of his own country.
+0 is the sine of &quot;pi&quot; radians.
+For cars and pedestrians red light is a sign that they should stop.
+The child is sleeping.
+The road goes straight from the south to the north.
+I'm searching in the furniture for something that one can write on.
+Stop babbling!
+&quot;Mother is not yet at home&quot;, I quoted Alice.
+How to make such a tasty soup is a secret to me.
+I bought a short skirt.
+These are stairs with three narrow steps.
+My computer is broken.
+The skin on my neck is red.
+It is colored red.
+To me the flower has the color of the sky.
+The guide explained to us that we would leave later in that the bus hadn't yet arrived.
+I told an interesting story to my child.
+I am going to water ski.
+I should repair runners of this water sled.
+This cable consists of 8 filaments.
+That is a metal cable.
+The trench in the ground is wide.
+I'm not familiar with Kevin.
+Alice is familiar to me in cooking tasty cakes.
+&quot;sla&quot; is a syllable in Lojban.
+The acid made my hand hurt.
+I notice that my 6-cylinder car is much more powerful than my old car.
+Lemon is sour to most people.
+The milk turns sour fast.
+This bag is plastic.
+The milk froze and is now solid.
+The dog followed the master, wagging its tail.
+A light bulb was flickering every second changing from red to blue light.
+The two boys were running to and fro.
+Sulfur is used for making matches.
+Touch and feel the muscle of my arm.
+I'm going to have a tomato and an onion.
+This soup tastes of onions.
+A cat has caught a mouse.
+I'm not sure in my guess about the weather.
+I guess you and I will have to walk for long time.
+The sea looks quiet in sound from here.
+I taste the taste of the orange.
+I taste an orange.
+I feel something sweet.
+The forest is full of monkeys.
+I can't find my socks.
+Eat with a spoon.
+What is the Lojban for Spanish &quot;hola&quot;?
+By saying {y} I meant that I wasn't sure.
+I succeeded in producing fire by rubbing one stick against another.
+My friend live to the south of this place.
+I ran in 15 seconds.
+The snow is cold.
+The cheese sticked to my mouth.
+I ate a bread sandwich with meat inside.
+We are safe from a possible attack of big cats.
+It was deliberate on the part of Kevin to hit Alice.
+The error happened accidentally on the part of the researcher.
+This is a soya soup.
+Sodium (Na) is an alkali metal.
+I was drinking an ice cream soda.
+Gold is expensive.
+Electrical junctions with gold surfaces are good transmitters.
+This is a home star of several big planets.
+Have you sown the seeds in the ground?
+This is an army of approximately 1000 soldiers.
+I should go to a food store.
+Is the data store active?
+He was growing sorghum to feed chickens.
+I'm sort of happy.
+I took several hen eggs.
+I am surprised that you can play the horn.
+The woman polished her body with a chocolate.
+Is she Spanish?
+The plant is growing.
+My spouse works as a doctor.
+Give me a piece of an apple.
+That is a hospital treating children for viral diseases.
+The mill is broken and is not producing the flour.
+The bomb exploded into pieces.
+I responded to the question by replying &quot;Yes.&quot;
+The person responded to her offer with laughter.
+The computer is not responding.
+I spit some tea from a cup onto the table.
+The rod seems to be standing vertically from my position.
+I scratched my head.
+Is that girl Australian?
+Please write about related to your real experience.
+Is your journey a business trip?
+Cows need grass.
+I made a mistake in choosing my spouse.
+I made a mistake by going to Madrid.
+I think it'd be rational to continue keeping silence.
+The school is surrounded by mountains and lakes from all sides.
+Be honest with me in saying what you did.
+Frankly, I don't know.
+I want a vegetable soup.
+This root is a vegetable of potato plant.
+I have an interest in Chinese ceramics.
+I am going to stay here for three days.
+A bear is climbing up a trunk of a high tree.
+The horse carefully stepped on the ice with her hoofs.
+I stepped to the bridge.
+I ate a bean soup with salt.
+She has talent for making dolls.
+He was frustrated of Alice's regular complaints.
+Among living beings, only humans use wheel.
+The child's head is hot.
+This is a lock for sealing this box; a suitable key is to be inserted into it.
+The vertex of this cone subtends 1 steradian.
+America is to the west of Africa when viewed from here.
+What restaurant would you recommend?
+Her proposal was to destroy the building.
+Any line segment can be changed in its length to any degree.
+Feel free to move the chair here and be seated.
+He is stable in is views.
+I am full.
+My rural house is to the west of the city apartment when viewed from here.
+The building has a complex structure.
+Where is a hospital?
+The fruit is dry of juice.
+You should fit the shoe to the horse's hoof with nails.
+I suddenly waked up.
+8 = 5 + 3.
+I smell the scent of flowers.
+I feel a flower scent.
+{mi} is the third argument of the verb {dunda}.
+Garlic gives off a strong odor.
+Lamb's wool is soft.
+I relax myself by lying on a sofa.
+Alice was fast enough in putting the bottle into the box.
+Coal consists of carbon.
+Elephants produce sounds similar to trumpet.
+Heating is how you cook an egg.
+I study math.
+The coat is tight on the child in its back part.
+I'm going to take a taxi.
+I challenged him in finding the answer.
+I don't like the taste of tomatoes.
+I hit my thumb with a hammer.
+You are my cousin since we have the same paternal grandfather.
+A girl with a cheeky smile on her face was standing at the blackboard.
+Put the tongue out.
+1 is the tangent of &quot;pi/4&quot; radians.
+He smokes tobacco.
+{melbi ractu} is a tanru (compound verb) with seltau {sutra} and tertau {bajra}.
+&quot;drip fry&quot; is a tanru.
+This is a bowl for salad.
+He brought a box of pens.
+The road pavement contains tiles.
+She said to him &quot;It's not your baby.&quot; (about her not yet born child).
+Isn't it pleasant to look at stars at night?
+I can't clean my shirt of the tar.
+Whales have the form of fishes.
+The best behaviour for you would be keeping silence.
+I'm thirsty.
+I'm dying for a juice!
+Jumping over the fence, this is how l got into the garden.
+The bread has a sweet taste.
+I'm tired of your numerous complaints.
+She has big boobs.
+Keep silence when I'm talking to Alice in Lojban about love.
+This fur coat is used by those who are in mountains and protects from cold.
+He has a bad habit of biting his fingernails.
+The main city of this country is far away from here.
+This is a train station.
+I'm drinking tea brewed from green leaves.
+I am big compared to you.
+The violent hail spreads from here to another country.
+The red color of the berry misled me into thinking that it's safe to eat it.
+I have read what is written on the wall.
+She arrived on time.
+I arrived in time.
+1 pm is when we should leave.
+Shops start working at 9:30
+10:05:27 (Japanese timezone) is when the rocket started the flight.
+Language is always an important detail of a society.
+&quot;What is the weather today in Moscow?&quot; &quot;It is sunny.&quot;
+How did you fell down (what were the circumstances of your falling)?
+What are the terms of usage?
+Studying a branch of science that you don't like is a crazy situation.
+This symbol labels words as being new.
+Three hours passed from the time I left the building till the time the mother arrived at it.
+9 is the exponential result of 3 to the power 2.
+The rind of the tree has a rough texture.
+This is the planet of humans.
+I'm afraid that my mom will see this.
+This network station stores 1 Terabyte of data.
+They are performing a fast dance before students.
+Big cats may inhabit this area.
+I kicked Alice with my left foot in the belly.
+This box is really heavy in dragging it on the floor.
+I obey your command.
+The box is made of tin.
+The sail is rigid in horizontal direction against the wind.
+I heard the sound of a plate breaking.
+Gold is heavier than iron.
+The cushion is filled with feathers.
+The banana tastes sweet to me.
+This camera is streaming video via the internet to my home computer.
+How is your daughter?
+This is an oven for cooking food.
+That is a wood burning stove.
+I found the pen in that room.
+I observe how butterflies fly.
+The fact that Kevin is not hungry is the evidence that he ate a cake.
+It's clear that I won't win.
+The machine is functional.
+You seem to be flexible in your behavior under requests of your loved one.
+The bird produces a high pitch.
+Cows produces low pitch.
+This text is short in the number of words.
+I twisted my ankle.
+The water reached her ankles.
+This was a cake made of fruits, cream and bread.
+How would you translate &quot;Yay, hello!&quot; to Lojban?
+I translated Lojban {coi ui} to English as &quot;Yay, hello!&quot;
+I translate from English to Lojban.
+Alice is the tallest among girls of this school.
+The air consists of oxygen and nitrogen.
+The dress is strained in horizontal direction.
+This train consists of 5 cars.
+There are many camel caravans on the Silk Road.
+Bears can climb trees.
+The job attracts me in that I may leave the office when I want.
+The car is behind the tree when viewed from the window.
+I will try to climb the tree.
+Only the one who tries succeeds. But the one who only tries fails.
+You are strong in lifting heavy objects.
+The sky in the sea is clean and magnificent.
+This food is rich in hot spices.
+This is a fertilized cell producing ant queen.
+The sky is a high &quot;pedestal&quot; for stars.
+I arrived at the hotel via the main street.
+I can reach the mountain.
+My arrival surprised them.
+This Japanese meal is a tube of rice with caviar as its filling.
+I agree with you that this is a beautiful garden.
+The tulips will bloom soon.
+This is a land of another country.
+You are my sibling since we are born from the same mother and father.
+Is copper orange?
+He made a swallowing movement.
+The knife is poking my leg.
+We actually have four legs.
+He governs this country.
+Dictionary is a useful tool for studying languages.
+The territory controlled by ants is extending.
+&quot;привет&quot; is a Russian text.
+I expect the final part of the competition interesting.
+Yesterday at twilight, she arrived at my house.
+I breathe the air of the garden full of oxygen and pleasant scents.
+I don't care.
+Regularly talking in Lojban is important to you in becoming an expert in Lojban.
+&quot;parte&quot; means &quot;part&quot; in Spanish language.
+This book is worth a lot to me for studying.
+This book is worth high praising.
+The child vomited what he had eaten.
+There are many factors.
+The context of this sentence is a sign that the author wasn't serious.
+Good evening!
+It's evening.
+I'm going to visit my mother tomorrow evening.
+It contains apples, grapes, pumpkin and other fruits.
+This is wine from red grapes.
+The box was full of books.
+Let's breathe some fresh air.
+I bought apples for 2 dollars.
+I bought three hours of Lojban lessons.
+I bought an internet connection.
+I remember being with Alice at this place.
+He took a revenge on Alice being rude to him by kissing her on the cheek.
+During Australian winter of year 2005 I wasn't in my home country.
+This cat of three months old is still a kitten since he still drinks mother's milk.
+Is this a picture of a cow's vagina?
+This is the screen for showing the amount of fuel.
+This is Rotavirus that infects humans.
+Is the fish fresh?
+The child excretes the urine from the body via the penis.
+The juice is thick.
+No milk left.
+I removed berries from the cake leaving the butter.
+Chocolate is a poison to dogs.
+I was flying in a passenger's airplane.
+Kevin is my vice in planning.
+It was brave of you to enter the burning house.
+I see the color of an apple. The apple is colored red.
+I see the form of an orange. The orange is round.
+I saw her swim.
+Show yourself.
+The light bulb gives an intermittent light and must be broken.
+I visited my sister in Moscow.
+This layer of soil is permanently frozen.
+The vulva of this cow has symptoms of a disease.
+This book is a Lojban dictionary.
+It was a storm.
+Only my mother has power to make me leave.
+Butterflies fly using wings.
+The woman's voice is quiet.
+I return to writing poems after writing prose.
+I returned to California from Japan.
+This is the doorway to the store.
+That hole is a doorway between the two rooms.
+These scissors is a lever for cutting paper with the fulcrum in the middle and two arms.
+This is a paper record of what I said in past about computers.
+Were you lying on the bed or on the sofa?
+These cats vary in color.
+He is virtuous in helping people.
+Kevin isn't moral to such degree.
+The fish has a strong flavour.
+What country do you live in?
+What city do you live in?
+I cut the apple in half.
+The woman's body is long.
+I am hungry for meat.
+The girl was playing the pipe.
+The puppet seems funny to me in how it jumps.
+The car consumes a lot of fuel.
+I wasn't serious in suggesting that he guides us.
+This is alcohol made of grapes.
+She panicked when she was kissed by an unfamiliar man.
+Soon I'll be okay.
+Apples are good for your health, and, in addition, they taste great.
+This machine has a current of 2 amperes.
+This is a northern sea.
+Your hands are pleasant to the touch.
+I am concerned for your health.
+I can't imagine myself driving a train.
+Elephants have long noses.
+Giving sugar sweets is a weapon against children used by grown-ups.
+Are pigs similar to humans?
+He was obstinate in front of his mother in not returning home.
+She is obstinate in her opinion.
+Donkeys are stronger than horses.
+His sweat is secreted by these glands.
+This is a letter to Alice from me where I as saying I loved her.
+Weight of the virus is 1 attogram.
+The custom is specific to Asian countries.
+I hate seeing you like this.
+The river is 100 meters deep.
+I was laughing so hard that I nearly dislocated my jaw.
+It's hard to find a black cat in a dark room.
+He was kind to me in providing me with a meal.
+You will regret your laziness.
+1 exasecond is approximately 32 billion years.
+The text is in Hindi.
+My pen has run out of ink.
+This is blue ink.
+The gray horse is fast.
+Have you fixed the wheel?
+An illness of my spouse would be bad for me.
+You just lured me into buying this house by changing the price.
+Where is &quot;Western&quot; hotel?
+My friend is Arabic.
+The boy injured his knee so that it hurt.
+The injury is dangerous.
+In Japan people like eating buckwheat noodles.
+Have you ever eaten turkey?
+This flower is a rose.
+This ring is 58.5% pure gold (58.5 out of 100 parts is pure gold).
+Give me the red book.
+Who knows more claims less.
+Are you asserting that the Earth goes round the Sun?
+The water looks smooth as glass.
+The juice is superb in taste.
+Her voice is cool.
+He is a rhythmic gymnast.
+We grind wheat into flour.
+I approve of your plan.
+The butchery closes at 4 o'clock.
+She pinched his buttocks with a hand.
+I will temporarily live in this building.
+You are real for me in my dreams.
+This soap is made of alkali, fat and water.
+This is a coast of the Japanese land.
+Cheese is made from milk.
+This is a stand for the pan.
+My home is your home.
+The kitten is amusing in how it jumps.
+Is killing mammals a crime to you?
+My confusion increased a lot.
+Would you please speak more slowly?
+One zeptomole (zmol) of substance contains 602 particles.
+The volume of seawater in the Earth's oceans is approximately 1.4 zettalitres (ZL).
+I'm listening to the music and watching a movie.
+I'm monitoring the situation by listening.
+The teacher was spotted in a bar.
+The music of the birds isn't loud.
+You are a pro in playing beautiful melodies on the flute.
+{zigzagi} is a zi'evla word.
+I am free to do what I like.
+The route to the mountain zigzagged.
+I'm too tired to help you.
+The food contains zinc.
+The dress is purple.
+He invested money in a new singer.
+I take a chance on loving you so that you will love me.
+He weighs ten more kilograms than I do.
+The door opens automatically.
+I'm doing my own work for myself.
+Are you performing a test?
+I intentionally hit him.
+I would do everything so that you like me.
+I plant yams and maize.
+I feel guilty about having told a lie.
+The house is to the left of the rock if viewed from here.
+The dog leaping hinders me from cleaning the room.
+You may sit down on the chair.
+Where is the toilet?
+I was at the meeting.
+I need to speak to Alice or Kevin (or to both of them).
+I discussed languages, and you discussed languages (maybe not with each other, maybe in different discussions).
+Do you want tea or coffee (make a choice)?
+Either both Alice and Kevin clean a room or none.
+Either you clean the room or I do.
+Hello, Lojbanists (whether or not you are experts).
+I know who hit ALICE (not someone else).
+It's important for ME.
+I &quot;derped&quot;. In other words, I said something stupid.
+I stayed at home forced by my illness.
+I talk in Lojban language.
+This a present sent by Kevin.
+In the system of the internet, various people can socialize with each other.
+As said by La Gleki, Lojban is a powerful language.
+My friend and I arrived at a strange place lacking the awareness that it can be dangerous.
+On March 15 I was in Japan.
+It's a card with a word.
+We equally discussed the same.
+Are you as busy as I am?
+If you want, ask me.
+Whenever you need something, take it.
+I would succeed anyway.
+To me it's morning now.
+Listen to me!
+Look at the picture!
+I will make you leave.
+I fed the child.
+I was late. Therefore, I had to return.
+I was so tired that I fell asleep.
+Because of my bad mood I didn't work.
+I'm strong to the degree that I can lift the piano.
+Kevin is so rich that he owns several houses.
+What is the lyrics of the song?
+I walked to the river.
+I ran away from them.
+I walk with a dog.
+One kilogram was too much.
+I can't talk to you since I'm in the office.
+My friend thinks, the situation is deteriorating.
+The Earth is a small planet of the Sun.
+Among artificial languages Lojban is spoken by many people.
+I like you but Alice likes you more.
+I met Alice in order to explain everything.
+You are wrong when using my data just because (sorry!) I unintentionally said a false thing.
+The woman is like Alice except that the woman has green eyes.
+All dogs are animals. However, it doesn't follow from that that all animals are dogs.
+I wasn't in the city so I couldn't meet Kevin.
+I felt a pleasant smell from the garden.
+Out of berries, I like strawberries most.
+I always win being the tallest one.
+I like berries with strawberries being my favorite ones.
+Cat died because of being curious (curiosity killed the cat).
+I experienced falling down.
+You enter with the requirement of saying a password.
+Instead, I ate a cake.
+I did it instead of you.
+I like you more than Alice likes you.
+I like you more than Alice.
+I like you less than Alice likes you.
+I eat with a fork.
+I can put it myself.
+The child is able to walk now with the help of parents.
+How did you get here?
+Kevin does everything in such a way I can't understand anything.
+As soon as the door opened, he got in as if we were waiting for him.
+He said something to me.
+He works in order to forget.
+We leave at 1 pm.
+We leave at 9:30
+I would do it provided that you stay.
+I became rich thanks to my hard work.
+I arrived for you.
+A building caught my eye.
+I listened to the music.
+My daughter is pretty.
+I am standing between a house and a river.
+I work from 8 to 17 o'clock.
+The flowers are present on the mountain and three kilometers around of it.
+I met another American Lojbanist.
+Look at the beauty with big eyes.
+Look at the big beauty-with-eyes.
+I jumped so that I reached the roof.
+I ate three last berries.
+I use WWW.
+Alice went to a store, but I don't know what A (Alice) bought.
+I'm actually swimming.
+Kevin is now acting as a captain.
+Everything can be talked about.
+I have never been to the park over there.
+I haven't succeeded yet.
+Have you ever seen an unidentified flying object?
+I know, since I've already talked to Alice.
+Ah, pain, I'm going to lose consciousness now!!!
+The brother arrived, meh.
+Do you want me to accompany you?
+What about going to the party?
+I hardly know you.
+Yay, you won.
+Yay, you won!
+I'm sure Alice will arrive.
+And I'm equally sure that Kevin will visit us.
+Wow, you are here. Wow, wow, Alice is here too!
+Wow, you arrived, Alice! Oh well, the others are here too.
+I will go to the store. I'd like you go there too.
+&quot;Pretty bunnies&quot; is the same as &quot;bunnies, the pretty&quot;.
+Pardon, Sir/Madam, are you finished?
+Hello, are you still there, friend?
+Goodbye, my land!
+Goodbye to all of you!
+Ciao, my friend!
+Hello, world!
+Good night!
+Good luck to you.
+Don't disturb me, damn you!
+Now I have to leave, have a nice day!
+Welcome to our house.
+How dare you show up near my house, go away!
+&quot;Thank you!&quot; &quot;You are welcome!&quot;
+Hey, girl, what is your name?
+At ease, soldiers.
+I understood myself, never mind.
+Eh? What did you say? I didn't hear.
+All right, no need to repeat, I got everything.
+You helped me a lot, thank you very much!
+I found myself, no thanks to you, Alice.
+I arrived on time, no thanks to you.
+I was late, and that's because of you, bastard Kevin.
+Hello, I'm La Gleki.
+&quot;Hello, Kevin!&quot; &quot;I'm not Kevin.&quot;
+Finally, I think that more books are necessary, I'm done.
+As you may conclude, the soldiers left the city ... no, that's not the end of the story, my students.
+I will never do that again, I promise you.
+I'll try, but I don't promise anything.
+I take my promise back, it's too heavy.
+Ahoy, Kevin! What's up?
+Look at this, please, Alice!
+&quot;Hey!&quot; - &quot;Yes?&quot;
+&quot;Hey!&quot; - &quot;Wait a bit…&quot;
+Pardon for interrupting, but where is the toilet?
+&quot;Clean the room.&quot; &quot;Will do.&quot;
+Salam!
+The parents are here now.
+&quot;Have you been to Japan?&quot; &quot;I'm about to.&quot;
+&quot;Where is the pen?&quot; &quot;It was over there.&quot;
+I knew that Alice had arrived (before I knew).
+I knew that Alice had arrived (before I knew).
+Oh, sir! You forgot your keys.
+Hello, said I.
+What should I do?
+It's required that you are present.
+Understanding this is hard. This is hard to understand.
+Where is Alice?
+I give this to you.
+I came from the sky.
+&quot;Are you going home, from home or?&quot; &quot;From home.&quot;
+I explained that I was absent because I was ill.
+I will send the letter via the internet.
+There is snow one meter thick in front of your door.
+There was mist over the river.
+Keep it under papers.
+There is a man standing to the right of you.
+A million of butterflies are dancing around me.
+There is a car behind you.
+Look at a car to the left of you.
+I've been living for three years in this house.
+The child is now sleeping in the room.
+I'm near the station.
+The air is cold inside my house.
+Can you see in the dark?
+Somehow, you were able to swim across the river.
+The sir was sitting touching the wall.
+Look in the direction of the window.
+Is the bird flying towards the Sun?
+Someone threw a stone from the direction of the fence.
+There is a tree across the river.
+I'm standing on the street on this side of the museum.
+I'm sitting by the lake on this side of an old oak.
+Sow the grain in a line and evenly!
+The cat jumped quickly.
+The problem is difficult according to many people.
+I can see an owner of what I believe is a strange house.
+I am going to another city (on Tuesday, by the way, to visit my parents).
+I either eat or play, or do both.
+I both eat a cake and drink some juice.
+&quot;What connective of GA series matches your situation: you eat a cake, you drink some juice?&quot; &quot;I do both.&quot;
+Alice will clean a room if, and only if, Kevin helps her.
+Alice is smart whether or not she is beautiful.
+Both you and I like pears.
+I do at least one of the following: I drink and I sing. I drink or I sing.
+I'm going to clean the room and cook a cake.
+I speak Lojban but I'm not an expert in it.
+Are you going or staying?
+Everyone either can be a person and can talk, or have none of that.
+I eat (whether or not I sing).
+Why are you doing this to me?
+It's going on for too long.
+You should try it somewhere else.
+1 + 1 = 2 = 10 / 5.
+I'd like to watch a new movie with you. But as I can see you are very busy now. When can we do that?
+I'd like to meet you. Is this possible?
+I simply thought this: you are very tired.
+How are you?
+What is Lojban?
+I'm washing myself.
+You are making nothing out of nothing.
+Does Alice keep her words?
+I'm happy because I'm happy.
+If there is something you want to happen, make it happen.
+There is an event X, an event Y and event Z such that X can lead to Y during Z.
+There is an event X, an event Y and event Z such that X can lead to Y during Z.
+Okay, so there is a house, let's call it {ko'a} from now on.
+ko'a looks like a store, many people go in and out. In addition, it's interesting that there is a window in ko'a that is broken.
+I said nothing about the problem.
+I'm taller than you.
+This is a car of my friend.
+My friend is crazy.
+I lost my keys. But I'm keeping your keys.
+My knee aches.
+The journey will be dangerous or long.
+One day there will be something so that I will be both sad and happy about.
+&quot;Do you eat or drink?&quot; &quot;Both.&quot;
+I'm going to buy an expensive car if and only if it is new.
+I'm going to buy a new car whether or not it is expensive.
+Something is happening here, and what it is isn't exactly clear.
+I expect the box to be big or heavy (at least one of the two characteristics).
+You were, are and will be my friend.
+Have you eaten yet or are you only about to eat?
+I'm going to buy an expensive car if and only if it is new (or not to buy any cars if they don't satisfy this condition).
+Either I talk or you talk.
+Let's do it whether or not he comes.
+The keys are hard to find. In other words, to find the keys is difficult.
+I develop a program. In other words, with me as the agent the program develops.
+1,2,3 is a sequence.
+It's more easy and less correct, respectively.
+Respected women and teachers, please, leave the room.
+You together with me discussed languages (not necessarily with each other but just taken as a single entity).
+This is a mass of eggs and flour.
+I discussed languages. You discussed languages.
+Those who are women and teachers, please, enter.
+The cross product of mangoes, apples and pears that are either red or yellow has 6 members.
+Look at the big beauty-with-eyes.
+Look at the beauty with big eyes.
+Alice and either Kevin or Eduard will visit the meeting.
+Either Alice and Kevin or Eduard will visit the meeting.
+I wish you cooked the bread and either cleaned the room or walked with the dog.
+The house is far from me.
+I have a brother.
+I like everything.
+Everyone who respects oneself is respected by everyone who respects someone.
+But it is unlikely that something is strange to everyone in every way.
+The following sentence is interesting.
+I'd like you to listen to me.
+Red is related to the state of being angry.
+Suddenly a light appeared far away and then the light disappeared.
+They both tried to observe it once again. But they didn't know whether that was the sign they had been expecting for so long.
+This discussion is getting more interesting.
+The following sentence isn't correct. Someone called John is my name. &quot;John is my name&quot; is correct, though.
+What is the best method of learning Lojban? That is a good question.
+Alice isn't present for more than two days. That is strange.
+That sentence is from a book that I had read.
+Hello, everyone!
+Do you want me to help you?
+&quot;We discussed travelling.&quot; &quot;What did you choose?&quot;
+Take care of yourself.
+Stop it!
+Enjoy your meal.
+Get dressed.
+We inhabit this planet.
+Nature plays an important role in our lives.
+I'm happy.
+We were discussing you.
+We try our best.
+We know the reason.
+We have a problem.
+You and I will survive.
+Let ko'a, ko'e, ko'i, ko'o and ko'u be people. Now ko'a and ko'e like ko'e and ko'i respectively, and ko'o and ko'u don't like ko'a and ko'e, respectively. Thus, ko'e is liked by whom?
+Kevin is at home.
+Alice likes to talk about herself.
+I'm talking to you about YOU!
+Did you say to me something about me?
+I'm talking in Lojban about Lojban.
+I went by car to my father who, by the way, had granted me it.
+Alice entered a store and bought apples. Then she went home.
+That is an interesting book. I'd like to buy it.
+Is that our bus?
+What is the price of this?
+Stay here.
+Oh my, what is that over there?
+I visited a house where we lived for several years.
+What do you want?
+Who was here?
+What object was here?
+{coi} is translated as &quot;Hello!&quot;
+Living beings are made from cells.
+It's raining.
+Eduard said something about the dog.
+I met the usual people at the usual place.
+I need someone to talk to me.
+Alice will visit Paris.
+Brother is how friends call Kevin.
+The Johnsons lived here.
+There was something you and I discussed. And that lasted for approximately an hour.
+&quot;Alice&quot; is an interesting book.
+Two circles is a symbol of logic.
+This doorbell is to call me.
+I want an apple. I want to do something with an apple (probably, to eat it).
+I didn't know of the problem.
+I saw a female. She is pretty.
+I noticed a crowd and stood up. After that, I moved into the direction of the crowd.
+Cat is an animal.
+A driver waits.
+Drivers wait.
+Typical birds can fly. And I study such birds.
+Typical birds can fly.
+Students surrounded the building.
+4 is the sum of 2 and 2.
+123 (as a text).
+I visited Antarctica (sic!)
+I went to the store, ehm, no, will go!
+Is it &quot;will go&quot; that should have been said?
+What's the meaning of {vau ua} that you said?
+I said &quot;Hello, friends!&quot;
+First, Mei Li has been living here for a short time.
+Secondly, she can help us.
+Lastly, she is a smart girl.
+Chapter 1. Long ago lived a man and a woman.
+Are you a teacher?
+Two dogs + three cats are five animals.
+You walk towards my front.
+Push it to the left.
+The discussion is possible if the boss comes.
+Had I a million dollars I'd be rich.
+I have a pair of mittens.
+You and I are two.
+It is one of the problems.
+The four entered the room.
+This book is mine.
+I kiss all but two of my friends.
+Math is the last subject that I want to study.
+Smart people can do nice things. But they represent a too small fraction of citizens.
+Half of the apple is rotten.
+Every person is stupid to some degree.
+It's too hard to choose.
+This is jungle, not a real forest.
+I do understand.
+Alice did respect me but didn't help me.
+It's not true that my wife is young.
+Kevin didn't love but kissed me.
+You are really smart, people.
+The fruits are indeed disgusting in taste.
+&quot;You like/dislike dogs?&quot; &quot;I hate them.&quot;
+It's not important to me.
+You won't make it (won't succeed).
+Not I did it.
+The shirt is medium in size.
+I'm fine in Lojban, neither a newbie, nor an expert.
+It's neither cold, nor hot now, it's in between.
+Despite that, I succeeded.
+It rains here seldom.
+I hate pears.
+Yay indeed!
+I ate indeed using a fork.
+I don't want but I'm ready.
+Yay! Alas!
+With help. Without help.
+I play the piano but I'm not an expert.
+I haven't talked to you in a long time. Well, now I should leave.
+You are becoming more and more proficient in Lojban. Back to the previous topic, I think your sentence wasn't fully correct.
+I like a woman, whom I habitually see in the park.
+I like a woman.
+He married a woman met in the store.
+He married a woman.
+I know that you are not responsible.
+I told Eduard that my car is broken.
+I want to sleep.
+Alice needs to be given beer.
+This way you will lose respect.
+The only way to have a friend is to be a friend.
+Have a pleasant dream (sweat dreams!)
+Bon appetite!
+How did you like the party?
+The length is two meters.
+I am happy that you came.
+Loving is working.
+I like the color red.
+My learning is hard process.
+It was a strange experience to look at the poor man.
+There are 9 students looking at you.
+There are three dolphins swimming near the shore.
+There were 5 cows in the garden.
+There are no big cats in the forest.
+There is one planet for humanity.
+There are two bears on the ice.
+There are 9 pencils that I use.
+There are 4 ants climbing the tree.
+There are 6 birds flying.
+It's 7 o'clock.
+We should wait for 10 days.
+I will return at 11 o'clock.
+I eat at noon (12 o'clock).
+Let's meet at 1pm.
+I will meet you at 3pm.
+I will leave at 2pm.
+Approximately 50% of humans are women.
+The table is half a meter in length.
+Two thirds of people can't swim.
+Half of the cats are nice.
+The length is in golden ratio to the length.
+One thousand and five hundred (1,500) people study in this school.
+&quot;+2 = 8 - 6.&quot;
+There are less than five people sitting in the room now.
+ '-3 = 2 - 5'.
+It's around 293.5 degrees Kelvin (20.5 degrees Celsius).
+Read the section 1.35.
+&quot;1/3 equals 0.(3)&quot;
+The children are eating in the room.
+More people are about to come.
+All but two people were present there.
+It's too hot.
+There are too many people in the street.
+About 10 students are in the room.
+There are too few sandwiches on the table.
+There are enough chairs.
+All of my friends say that I look tired.
+Almost all people are idle now.
+Most people like apples.
+Many people are poor.
+I talked to several people.
+There are a few people now in the store.
+There are at most two people in the building.
+At least three people left the building.
+At least one person is attentive now.
+There is an infinite number of possibilities.
+e<sup>(i × π)</sup> +1 = 0.
+I have a usual number of fingers.
+The number π (pi) is approximately 3.14159.
+The area of a circle of diameter &quot;2 × r&quot; is equal to π × r<sup>2</sup>.
+e<sup>(i × π)</sup> = -1.
+There is a mash of onions in the pot.
+How many people will be present at the meeting?
+&quot;How old are you?&quot; &quot;Thirteen.&quot;
+I was hungry to some degree.
+20 - 29 people were present in the room.
+I will bring it.
+The parents were in the bar; meanwhile the children were alone at home.
+Be quite while I'm talking.
+When you feel lonely, remember the happy moments we had together.
+I didn't see the cat.
+&quot;I am pleased to meet you.&quot; &quot;Me too.&quot;
+I met Alice for the third time.
+I'm here again.
+I met Alice twice, two times.
+Could you repeat that?
+Alice, come here! No, ... Kevin, come here!
+I am familiar with the man.
+I bought a car from my friend.
+In other words, my friend sold a car to me.
+The route is short.
+I hate internet mail system.
+As I remember, you are a programmer.
+Silly me, the store is in another place.
+I'd like to eat a coconut, no, pear!
+I said &quot;Hello, friends!&quot;, ehm, no, &quot;Hello, kids!&quot;
+I regularly walk in the park.
+I read the same book again and again.
+I eat coconuts here and there.
+You are a boring person.
+I ate apples on and on.
+The light was glowing.
+The light was flashing.
+I used to eat apples.
+Children tend to quickly get tired.
+The children (the parents were at the store) went outside.
+I will walk with the dog. And then I will either cook the bread or clean the room or doth both at the same time.
+I'm listening, go on talking!
+Eh, just a second, let me finish this.
+La, la, la, I'm not listening what you are talking about.
+It's going to be a storm.
+Yaaaawn, I'm going to bed.
+Let's go home.
+C'mon, what are you waiting for?
+I'm trying to hold it!
+Ah, this is easy.
+Nah, why bother fixing it.
+I hope, it's worth doing it.
+Gah, I lost all my property.
+Interesting, all Lojbanists are smart people.
+Hm, what is the reason?
+It's none of my business that you live with a boy.
+You married a stranger, it's none of my business, I'd avoid this topic.
+Yuck, that smells like shit! I'm not going to eat this.
+I'm going to visit you.
+I'm indecisive to whether I should go to a shop.
+I didn't mean to hit you.
+I'd like some tea, please.
+You prepare the food or not ... I don't have any preferences.
+I don't want you to leave.
+You may come in.
+No fire allowed!
+You may not pick the flowers.
+Show your strength, go for it!
+I'll reach you.
+Sorry, I lack time.
+I have to leave.
+Sing!
+Let me see.
+Will you pass the juice, please?
+Here, take some candies.
+Let's try.
+Let's go.
+You'd better not step onto the bridge.
+You should be sleeping now.
+You ought to know.
+You needn't hide yourself.
+Okay, I will wait.
+Well, I'm not an expert.
+No, the solution doesn't satisfy me, it should be different.
+Very good! You did an important work.
+Well, okay, you arrived on time.
+Oy, you are late.
+You are sad, I know that feeling, bro.
+It's your problems, I'm not doing your work.
+Ah, you're a true friend.
+Mmm, you are always lucky.
+Greetings, old friend.
+Yes, these apples are sweet.
+It's some hotel.
+I believe that's correct.
+I see an owner of what I believe to be a blue house.
+Allegedly, he is the murderer.
+I don't believe, he is frank with me.
+Yes, Alice could be here.
+No, I don't agree that the animal is dead.
+Eek, there is someone coming!
+The water won't reach us.
+This way, Sir!
+Get your asses over here!
+I'd love to stay.
+You didn't help me, hate you!
+I hate chocolate.
+Now I am able to swim.
+It was just my duty, so I helped.
+What a shame, Alice is not ready yet.
+Oops, I mailed to a wrong address.
+I'll go with you to see the doctor.
+Dear, I don't know.
+Leave me alone, I'm thinking.
+Be careful, a car ahead!
+Go ahead, attack!
+Patience, try again!
+Ok, what was your motive to do it?
+Where is the mother after all?
+Phew, the storm is over.
+I followed the law.
+My son is still not back.
+Ouch, my leg!
+Fresh water, how nice.
+Aha, that's a sign that I was right.
+Snif, Rob was a good dog.
+Wow, the lake is really beautiful.
+So what? It's just a lake.
+Ha-ha, a cat is trying to capture its tail.
+Boring, I heard your funny story.
+I'm coming to your rescue!
+Erm, may I stay here?
+Oh no, I'm not going to enter.
+Sorry, I made a mistake.
+Wow, these berries are indeed tasty.
+Huh, what's the meaning of your words?
+Oh, the pen is inside the box.
+Hey, you are already here!
+Well, no surprises, you are still sleeping.
+Everything is perfect, just as I expected.
+Yay, I had a meeting with her.
+Alas, I failed.
+Voila, I found a solution!
+Oh, you almost hit it.
+Oh you poor thing, I hope you will win another time.
+Mwa ha ha, you will be my slave!
+I expect my mother to be at home now.
+I expect my friend to have won.
+In my experience, the number of eggs depends on when a hen starts.
+As I remember, you don't like old people.
+You sit there!
+You go with me!
+The work is hereby done.
+Let there be light!
+Then, you must be an American.
+So, you don't like beer.
+Alice has an opinion that the man is crazy, and it is so, I say.
+Everything should be doubted.
+We know that most people hate something.
+I think you are right.
+I think it's worth asking.
+I presume, I am a bit ill.
+I have a feeling you will succeed.
+It seems, she hates you.
+It seems, the teacher was disappointed.
+Alice, which is my wife, hates beer. And that shows that all women hate beer.
+I like women ... Alice in particular.
+They say it will rain.
+She is said to be a good doctor.
+Oh, what a nice weather.
+Apparently, the bus is late.
+I can hear the loud sound outside.
+So it must be raining heavily.
+You never understand me.
+The student literally never understood my explanations.
+The Earth is big, to put it mildly.
+I could be rich.
+I do live on an island.
+I could teach you some additional things.
+At least you didn't steal anything.
+Hopefully, I'll be given an expensive car or at least one that isn't broken.
+Luckily, I'm allowed to wear a short skirt.
+You are now at home, lucky you.
+Unluckily, this thing wouldn't be of big help.
+Unluckily, no one noticed that she was no longer with us.
+Truly, you are a smart person.
+This &quot;garden&quot; (which is in fact not a garden) is owed by some weird people.
+Are you with us? No.
+I repeat, I don't agree with you.
+Furthermore, I live not in a city.
+Probably, this is the most popular one.
+Probably, it's the explanation.
+It's improbable that Kevin can convince Alice.
+You are clearly worried.
+Clearly, nothing in their relations was amiss.
+Of course, I have never been to Antarctica.
+Weather depends on the sun, I see, but it's complicated.
+I like animals like, for example, dogs and cats.
+In my unbiased opinion, the soup is terrible.
+Of course, I'm biased, but my paintings are the best.
+Above all, be patient.
+I need to work. But with equal importance I need to relax.
+Incidentally, I'm not surprised.
+To be precise, I'm in the center of the city.
+Raccoons are mammals, roughly speaking.
+I was just lucky.
+What are you doing?
+I'm just reading.
+What are you reading, please, elaborate.
+To add details, I met a woman who I had studied with.
+By the way, how old are you?
+Back to the point, I'm planning to visit Moscow on Tuesday.
+In short, I don't know the answer.
+In detail, I leave this evening.
+I have little money.
+In other words, I'm poor.
+On the one hand, the sentence is exact in meaning.
+On the other hand, it is too long.
+That girl (mentioned earlier), she went to a park. What is new is that she is talking to a boy there.
+&quot;Is the person standing near that building a woman?&quot; &quot;Good question! I don't know! (there is a person standing near the building, the question of whether it's a woman is applicable).&quot;
+I know who hit Alice (not someone else).
+I wasn't sure how many people were present.
+Kevin is the first. Eduard is the second, and so on.
+&quot;When did you buy a rabbit?&quot; &quot;I didn't buy a rabbit.&quot;
+&quot;What do you think of pelmeni?&quot; &quot;Nothing, I don't know this word.&quot;
+You are asking of what is the reason for something happening in the future, and/or in usage. What is that reason, and is it for something happening in the future, a usage, or both?
+Why people are so stupid?
+I like it too.
+A hungry bear will eat even insects.
+However, I don't have money.
+She was tired and in line with that she fell asleep.
+I did the same thing.
+I took a book and gave another one to Alice.
+Only the one who tries, succeeds, and the one who only tries, fails.
+The only thing is, I'm not with her.
+I bought only some juice.
+I don't approve of punishments which, for one, are a crime.
+I bought candies among other things.
+I also visited the city (just in another year).
+But i like fish.
+Time is money.
+He is a &quot;sheep&quot; (figuratively).
+I'm hungry for talking.
+I'm literally hungry.
+Don't leave me, oh my beloved fairy!
+You belong to a shitty religion, no respect to you in this!
+Yay, you built a temple (well, no religious feelings here)!
+Awkward. I'm confused.
+I'm just puttering here by myself, fixing my computer.
+I feel so lonely, nobody is here.
+Yay, I remember!
+I will do it not putting much intellectual effort.
+There is no logic in it, you are just wonderful.
+I'm just overwhelmed with emotions, we won!!
+How do you feel?
+Feelings apart, I'm healthy.
+No rejoicing from me, you succeded.
+Yum, yum, it's tasty.
+I'm afraid it can be expensive.
+No, not that it requires physical work, but I'm afraid I might not put the box correctly.
+Boy, you are hot, I love you.
+You are pretty, not that I love you in sexual sense.
+Yay, you are with me, my buddy.
+Hehe, not that funny, tell me another story.
+Yay, you brought the two kittens whom I wanted.
+Ha-ha-ha, so funny, I can't laugh anymore, I might fall down to the floor now.
+I know it hurts, baby!
+You won, yay you!
+You must be sad, your dog died.
+I can easily climb the mountain, I can go for it!
+Yay, that was hard but now I'm at the edge of the city.
+What do you need, you beggar?
+I'm talking to you, my peers.
+Please, governor, help us, worthless people.
+You must have thought of something.
+Maybe, he is doing it for her, I'm not sure.
+Are such words used? I have no idea!
+Everybody follow my orders!
+Hey, I just asked you about your health.
+Okay, okay, I understand that I have to sit here.
+Ah, I lost my keys.
+Mmm, it hurts.
+The child played by himself.
+The infant walks but not by himself.
+Oh, I made a mistake.
+Someone would be discontented, there is a broken bottle on the floor.
+It's my virtue, I agree that the city should be destroyed.
+My sin, I don't want you to leave.
+Yay, I ate a candy that I had stolen.
+Yes, of course, you know better (sarcastically)!
+With full sincerity, I can tell you that you worked enough.
+Are you kidding?
+Let's throw Kevin into this hole (kidding ...).
+I might be able to jump from the hill.
+Seriously, you are annoying.
+Well, my cat has given birth to ten kittens.
+&quot;I bought granate.&quot; &quot;Huh, granate?&quot;
+&quot;The child is just very tired.&quot; &quot;I understand.&quot;
+Either you or I die!
+Let's go!
+Let him eat the fruit!
+Let your plan be successful!
+Did you know?
+Didn't you know?
+At last you arrived, and I'm happy now!
+What's going on, Alice is also not present.
+Enough laughing, I'm back to work.
+The man is standing two meters away from me.
+The man is standing near, only two meters away from me.
+The man is now far away, three train stations from me.
+I won, yay!
+Sometimes I walk slowly from the school, sometimes I run away from it.
+There is a lake covering 2,000 square meters.
+It's dirty all over the room.
+The tiles that fell from the roof broke into small pieces.
+That hill is covered with grass.
+There is a puddle covering two square meters.
+Children made a snowball.
+Have you ever been near the ocean?
+(3 + 1) x 2 = 8.
+3 + 1 x 2 = 5.
+I travelled across the country.
+I moved around the city.
+Are you thinking of the whole picture?
+People change in time and space.
+I'm going to walk along the street.
+The fire spread across the building in all directions.
+Are &quot;Ouch&quot; and &quot;Eureka&quot; that you said related to your job?
+I bought half a dozen eggs.
+2 × 5 = 10.
+13 + 5 = 18.
+11 - 8 = 3.
+Alice and Ann were at a meeting. But Ann left soon.
+I love (love!) Kevin (not that he loves me).
+I love you, and you love me.
+You, I see (maybe you see me, maybe I see you, context will tell).
+I'm buying these apples and, umm, the pears over there.
+I have eaten an apple.
+We are done talking.
+I'm no longer hungry.
+The child is eating.
+It started raining.
+The apple has begun to decay.
+It's turning yellow.
+I was eating a mango when she entered.
+I haven't eaten up soup.
+I stopped eating apples for a while.
+I won't play the piano again.
+I've lost it.
+I've eaten up all apples.
+I built houses for a month.
+I'm about to eat meat.
+I ate a cake too early.
+Wow, you are already here.
+I kept eating candies after my meal was over.
+I slept for a while.
+I will always love you.
+I loved, love and will love you.
+I'm going to take a nap (to sleep for a short time).
+I took a long nap after eating.
+Experts used X-rays.
+I will return in three days.
+I will return soon, in an hour.
+Alice left ten years ago (a long time).
+The man that talked to you and who is blond is my brother, surprised?
+Gleki is my name.
+Do you live in Virginia?
+Alice is a prima donna.
+&quot;Again&quot; is translated as {za'u re'u}.
+As for animals, I like cats.
+There are four {da} (that are dogs) and there are two {de} (that are men) such that each dog ({da}) bites the two men ({de}).
+&quot;The wild bears&quot; is an interesting movie.
+{coi ro do} is translated to English as &quot;Hello, everyone!&quot;
+I do want to study. But it's difficult to me.
+{di'ai} is a grammatical particle of class &quot;COI&quot; (vocative).
+I want you to accompany me. Is this possible?
+{kla} is an affix from the full verb {klama}.
+Peace to you! (as a greeting).
+I tested the car.
+I will have a test soon.
+I rely on you to help me.
+I hate having to rely on my car to get where I want.
+&quot;Lojban&quot; is cmevla.
+This field is 100 square meters.
+The man used dirty language.
+Someone else but me can help.
+I am spinning in the air.
+I lost my keys.
+Turn off your electronic devices.
+There is an infinite number of possibilities for one man, and twice as many for two men.
+The author is Brazilian.
+She speaks Portuguese.
+The chicken soup tastes umami to me.
+The road is dusty.
+Return the money.
+I have no comment.
+He made a nice comment about the book.
+I accepted my friend's proposal to go to the cinema.
+January 17, 2015 is the date when I started studying Lojban.
+The tradition is Taoist.
+They discussed Muslim law.
+The woman went to a Christian temple.
+You were wise to sell the car.
+Frankly, it's not important to me.
+The problem is probably not hard.
+The juice in the fridge was no good.
+I put it into the fridge.
+Have you finished building the house?
+I drank a cup of hot coffee from a cup.
+My arrival wasn't expected by anyone.
+You are a lot like my sister.
+Do you want more water?
+He came in.
+I was thinking of returning back home.
+The old man taught me the method of not feeling the pain.
+The decimal expansion of the number π (pi) is infinitely long.
+I know too little about math.
+The road is two kilometers long.
+The table is two meters in size.
+I talk to you about cats, and you talk to me about cats. In other words, we talk to each other about cats.
+You, Alice and I talk to each other.
+You, I and Alice had a battle royale.
+I wish Jasmine replies &quot;Yes&quot; to me.
+The girl asked a police officer &quot;How does one get to Palm hotel?&quot;
+I write small programs in Haskell.
+I have written a computer program for giving cats strokes automatically.
+A piece of a plum cake, and, voilà, I'm no longer hungry.
+Is this a famous Japanese fish?
+We greeted the American.
+I'd like to drink a lemon juice.
+Please, calm down.
+Are you free on Tuesday evening?
+I will work on Wednesday.
+On Friday, I will walk in a park.
+I will work on Monday.
+Shall we meet each other on Thursday?
+Where will you be on Sunday?
+On Saturday I was having a rest.
+5<sup>3</sup> = 125.
+Come tomorrow!
+On the day following my arrival I started feeling something strange.
+Today is Sunday.
+It rained yesterday.
+I met him the day before he left.
+Tom was ill and that's why couldn't come.
+First I, then you enter.
+My friend and I live in similar apartments. My friend and I live nearby.
+There is a narrow channel to the pool from a river, it goes through flower fields.
+I asked a question, &quot;What are the news?&quot;
+I like North American lands.
+Here, winter is a cold season.
+It's boring without music.
+I'm bored.
+I'm going to wipe the table with a cloth.
+This apple is sweet.
+That box contains apples.
+We talked quiet.
+Please, be quiet!
+This garden is a quiet place.
+The machine has a soft sound when listening from the outside.
+I will inform you as soon as I arrive.
+Who will participate in the discussion?
+I won't be paying attention for a while.
+I'm listening again.
+The work is almost done.
+There were many friends seeing Alice off.
+Jasmine lied to you.
+Kevin said that you need my help.
+Are you the king of the world?
+I miss you.
+Aha, that proves that I am right.
+I left the car by the side of the temple.
+He ought to finish soon.
+You ought to wear a coat.
+You ought to work hard.
+It's my own car.
+I'd rather stay at home than come with him.
+Are you the same person who searched for me yesterday?
+He tends to lie.
+I think that these documents containing the development of the language are very important.
+I add some greenery to bread getting a sandwich.
+A girl is playing with her doll.
+This is a text about important events.
+I'm talking to you whom I love.
+To a large degree the building is great.
+They no longer use machines created to get oil.
+What would happen if humans never slept?
+The sugar is not enough.
+Who likes me?
+I am embarrassed.
+I feel ashamed.
+I don't feel comfortable.
+I feel awkward.
+It's my embarrassment to…
+That's a real embarrassment.
+This evening is pleasant. Such time that is this evening doesn't happen often.
