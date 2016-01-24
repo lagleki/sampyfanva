@@ -7,7 +7,7 @@ describe('machine-translator', function () {
   })
 
   it('should initialize model correctly', function () {
-    var t = new Translator('./tests/data/shortEN.txt', './tests/data/shortDE.txt')
+    var t = new Translator('./tests/data/shortEN.txt', './tests/data/shortJBO.txt')
 
     expect(t.nativeLines).to.include('the dog')
     expect(t.nativeWords).not.to.have.length(0)
@@ -19,7 +19,7 @@ describe('machine-translator', function () {
   })
 
   it('should calculate transmissions', function () {
-    var t = new Translator('./tests/data/shortEN.txt', './tests/data/shortDE.txt')
+    var t = new Translator('./tests/data/shortEN.txt', './tests/data/shortJBO.txt')
     expect(t.transmissions).to.be.empty
     t.train()
 
